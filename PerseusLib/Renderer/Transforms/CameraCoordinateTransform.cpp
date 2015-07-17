@@ -1,4 +1,5 @@
 #include "CameraCoordinateTransform.h"
+#include <cstdlib>
 
 using namespace Renderer::Transforms;
 
